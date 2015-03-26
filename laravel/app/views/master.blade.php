@@ -9,7 +9,7 @@
 	<meta name="description" content="">
 	<meta name="author" content="">
 
-	<title>Landing Page - Start Bootstrap Theme</title>
+	<title>Spaceship Earth</title>
 
 	<!-- Bootstrap Core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
@@ -73,8 +73,8 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div class="intro-message">
-					<h1>Landing Page</h1>
-					<h3>A Template by Start Bootstrap</h3>
+					<h1>Hello Nicolette</h1>
+					<h3>Fetus</h3>
 					<hr class="intro-divider">
 					<ul class="list-inline intro-social-buttons">
 						<li>
@@ -206,11 +206,15 @@
 					</li>
 					<li class="footer-menu-divider">&sdot;</li>
 					<li>
-						<a href="#about">About</a>
+						<a href="#about">Automation</a>
 					</li>
 					<li class="footer-menu-divider">&sdot;</li>
 					<li>
 						<a href="#services">Services</a>
+					</li>
+					<li class="footer-menu-divider">&sdot;</li>
+					<li>
+						<a href="#contact">Contact</a>
 					</li>
 					<li class="footer-menu-divider">&sdot;</li>
 					<li>
