@@ -25,9 +25,14 @@ Route::get('/test', function()
 	return View::make('test');
 });
 
-Route::get('/testing', function()
+Route::get('/test2', function()
 {
 	return View::make('test2');
+});
+
+Route::get('/test3', function()
+{
+	return View::make('test3');
 });
 
 
