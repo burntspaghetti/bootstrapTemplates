@@ -20,4 +20,14 @@ Route::get('/', function()
 	return View::make('home', compact('image'));
 });
 
+Route::get('/test', function()
+{
+	return View::make('test');
+});
+
+Route::get('/testing', function()
+{
+	return View::make('test2');
+});
+
 
