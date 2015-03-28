@@ -47,3 +47,21 @@ Route::get('/test5', function()
 	return View::make('test5');
 });
 
+//blog post
+Route::get('/test6', function()
+{
+	return View::make('test6');
+});
+
+//blog home
+Route::get('/test7', function()
+{
+	return View::make('test7');
+});
+
+//slate
+Route::get('/test8', function()
+{
+	return View::make('test8');
+});
+
