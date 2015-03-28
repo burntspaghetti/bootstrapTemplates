@@ -35,4 +35,15 @@ Route::get('/test3', function()
 	return View::make('test3');
 });
 
+//clean blog
+Route::get('/test4', function()
+{
+	return View::make('test4');
+});
+
+//dashboard
+Route::get('/test5', function()
+{
+	return View::make('test5');
+});
 
