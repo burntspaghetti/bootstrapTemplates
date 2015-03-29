@@ -65,3 +65,14 @@ Route::get('/test8', function()
 	return View::make('test8');
 });
 
+Route::get('/test9', function()
+{
+//	dd('test');
+	return View::make('test9');
+});
+
+//incomplete. lots of extra files. would be faster to scrape than to copy paste
+Route::get('/test10', function()
+{
+	return View::make('test10');
+});
